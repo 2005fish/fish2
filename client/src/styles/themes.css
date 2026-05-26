@@ -1,0 +1,20 @@
+/* Day theme (default) */
+.theme-day {
+  --reader-bg: #f5f0e8;
+  --reader-text: #333333;
+  --reader-secondary: #888888;
+}
+
+/* Night theme */
+.theme-night {
+  --reader-bg: #1a1a2e;
+  --reader-text: #cccccc;
+  --reader-secondary: #666666;
+}
+
+/* Sepia theme */
+.theme-sepia {
+  --reader-bg: #f4ecd8;
+  --reader-text: #5b4636;
+  --reader-secondary: #8b7355;
+}

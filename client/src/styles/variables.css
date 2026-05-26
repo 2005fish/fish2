@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #ff6b35;
+  --color-primary-light: #ff8c5a;
+  --color-bg: #f5f5f5;
+  --color-bg-white: #ffffff;
+  --color-text: #333333;
+  --color-text-secondary: #999999;
+  --color-text-light: #666666;
+  --color-border: #eeeeee;
+  --color-tag-bg: #fff3ed;
+  --color-tag-text: #ff6b35;
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+  --tabbar-height: 50px;
+}
